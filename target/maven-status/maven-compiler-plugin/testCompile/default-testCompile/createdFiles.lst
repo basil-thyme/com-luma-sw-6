@@ -1,0 +1,5 @@
+com\softwaretestingboard\magento\runner\RegressionTestRunner.class
+com\softwaretestingboard\magento\runner\SmokeTestRunner.class
+com\softwaretestingboard\magento\AppTest.class
+com\softwaretestingboard\magento\runner\SanityTestRunner.class
+com\softwaretestingboard\magento\Hooks.class
